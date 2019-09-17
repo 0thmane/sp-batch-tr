@@ -6,5 +6,9 @@
   <packaging>pom</packaging>
   <modules>
   	<module>sp-batch-tr-e-00</module>
+  	<module>sp-batch-tr-e-01</module>
+  	<module>sp-batch-tr-e-02</module>
+  	<module>sp-batch-tr-e-03</module>
+  	<module>sp-batch-tr-e-04</module>
   </modules>
 </project>
