@@ -10,5 +10,8 @@
   	<module>sp-batch-tr-e-02</module>
   	<module>sp-batch-tr-e-03</module>
   	<module>sp-batch-tr-e-04</module>
+  	<module>sp-batch-tr-e-07</module>
+  	<module>sp-batch-tr-e-08</module>
+  	<module>sp-batch-tr-e-09</module>
   </modules>
 </project>
